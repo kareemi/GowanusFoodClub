@@ -1,0 +1,2 @@
+class Lunchspot < ApplicationRecord
+end

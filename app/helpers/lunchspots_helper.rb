@@ -1,0 +1,2 @@
+module LunchspotsHelper
+end
